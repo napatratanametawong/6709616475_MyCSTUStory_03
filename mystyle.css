@@ -358,6 +358,14 @@ footer {
         margin-bottom: 10px; /* ระยะห่างระหว่างบรรทัด */
     }
 
+    .sub-text {
+        padding: 5px; /* ระยะห่างภายในกล่อง */
+        border: 2px solid #459485; /* เส้นขอบของกล่อง */
+        box-shadow: 3px 3px 0px #459485;
+        margin-right:10px;
+        white-space: nowrap;
+    }
+
 
 }
 
