@@ -384,9 +384,16 @@ footer {
     }
 
     .education-text {
-        font-size: 12px; /* ขนาดของข้อความใต้ Education */
-        margin-top: 5px; /* ระยะห่างด้านบน */
+        font-size: 12px;
+        margin-top: 5px; 
         line-height: 1.0; 
+    }
+
+    .intro-video {
+        width: 90%; 
+        height: auto; 
+        margin-top: 8px; 
+        margin-left: -15px;
     }
 
     
