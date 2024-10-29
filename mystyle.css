@@ -400,6 +400,35 @@ footer {
         padding-left: 33px; /* ลด padding เพื่อให้เริ่มย่อหน้าตรงกัน */
     }
 
+    .hobbies-text, .contact-text {
+        font-size: 10px;
+    }
+
+    .hobbies-images {
+        gap: 10px; /* ระยะห่างระหว่างกรอบ */
+        margin-top: 10px; /* ระยะห่างจากข้อความ HOBBIES */
+        margin-left: -50px;
+    }
+
+    .image-frame {
+        width: 15px; /* กำหนดความกว้างของกรอบ */
+        height: 15px; /* กำหนดความสูงของกรอบ */
+    }
+
+    .hobby-image {
+        width: 30px; /* ปรับขนาดรูปภาพให้เล็กลง */
+    }
+
+    .image-label {
+        font-size: 10px; /* ปรับขนาดตัวอักษรตามต้องการ */
+        margin-top: 6px; /* ระยะห่างจากกรอบรูปภาพ */
+    }
+
+    .contact-text {
+        margin-top: 10px; /* เพิ่มระยะห่างตามต้องการ */
+        margin-left: -50px;
+    }
+
     
 
 }
