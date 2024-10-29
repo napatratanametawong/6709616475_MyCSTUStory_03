@@ -513,8 +513,13 @@ footer {
     }
 
     .image-frame {
-        width: 100px; 
-        height: 100px;
+        width: 90px; 
+        height: 90px;
+    }
+
+    .hobbies-images {
+        gap: 16px; 
+        margin-left: -50px;
     }
 
 
