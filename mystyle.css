@@ -397,7 +397,7 @@ footer {
     }
 
     .hobbies-section, .contact-section {
-        padding-left: 33px; /* ลด padding เพื่อให้เริ่มย่อหน้าตรงกัน */
+        padding-left: 33px; 
     }
 
     .hobbies-text, .contact-text {
@@ -405,18 +405,18 @@ footer {
     }
 
     .hobbies-images {
-        gap: 10px; /* ระยะห่างระหว่างกรอบ */
-        margin-top: 10px; /* ระยะห่างจากข้อความ HOBBIES */
+        gap: 10px; 
+        margin-top: 10px; 
         margin-left: -50px;
     }
 
     .image-frame {
-        width: 15px; /* กำหนดความกว้างของกรอบ */
-        height: 15px; /* กำหนดความสูงของกรอบ */
+        width: 15px; 
+        height: 15px;
     }
 
     .hobby-image {
-        width: 30px; /* ปรับขนาดรูปภาพให้เล็กลง */
+        width: 30px; 
     }
 
     .image-label {
@@ -433,8 +433,6 @@ footer {
         margin-top: -5px; 
         padding: 20px;
     }
-
-    
 
 }
 
