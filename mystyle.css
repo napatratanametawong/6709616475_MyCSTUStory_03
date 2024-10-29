@@ -426,7 +426,12 @@ footer {
 
     .contact-text {
         margin-top: 10px; 
-        margin-left: -54px;
+        margin-left: -56px;
+    }
+
+    footer {
+        margin-top: -5px; 
+        padding: 20px;
     }
 
     
