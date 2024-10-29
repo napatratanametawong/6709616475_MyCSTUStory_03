@@ -366,6 +366,19 @@ footer {
         white-space: nowrap;
     }
 
+    .text-row {
+        margin-top: 10px; /* เพิ่มระยะห่างด้านบน */
+    }
+
+    .education-section, .intro-section {
+        padding-left: 30px;
+    }
+
+    .text-left, .text-right {
+        font-size: 17px;
+        text-shadow: 1px 1px 0px rgba(37, 36, 36, 0.9)
+    }
+    
 
 }
 
