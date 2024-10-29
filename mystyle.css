@@ -451,6 +451,20 @@ footer {
         font-size: 1.5em;
     }
 
+    .overlay-text-container {
+        top: 20%; 
+    }
+
+    .overlay-text {
+        font-size: 120px;
+        text-shadow: 10px 5px 0px #000000;
+    }
+
+    .sub-overlay-text {
+        font-size: 35px;
+        text-shadow: 2px 2px 1px #c1bdb8;
+    }
+
 }
 
 
