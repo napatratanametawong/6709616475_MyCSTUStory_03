@@ -526,6 +526,10 @@ footer {
         margin-left: 5px;
     }
 
+    .hobbies-text, .contact-text {
+        margin-top: 15px;
+        font-size: 20px;
+    }
 
 }
 
