@@ -342,6 +342,12 @@ footer {
         margin-left: 20px;
     }
 
+    .main-text {
+        font-size: 40px; /* ขนาดข้อความหลัก */
+        text-shadow: 2px 2px 0px #283b2a;
+        margin-left: -100px;
+    }
+
 }
 
 
