@@ -343,7 +343,7 @@ footer {
     }
 
     .main-text {
-        font-size: 40px; /* ขนาดข้อความหลัก */
+        font-size: 40px; 
         text-shadow: 2px 2px 0px #283b2a;
         margin-left: -100px;
     }
@@ -355,19 +355,19 @@ footer {
 
     .sub-text-item {
         font-size: 10px;
-        margin-bottom: 10px; /* ระยะห่างระหว่างบรรทัด */
+        margin-bottom: 10px; 
     }
 
     .sub-text {
-        padding: 5px; /* ระยะห่างภายในกล่อง */
-        border: 2px solid #459485; /* เส้นขอบของกล่อง */
+        padding: 5px;
+        border: 2px solid #459485; 
         box-shadow: 3px 3px 0px #459485;
         margin-right:10px;
         white-space: nowrap;
     }
 
     .text-row {
-        margin-top: 10px; /* เพิ่มระยะห่างด้านบน */
+        margin-top: 10px; 
     }
 
     .education-section, .intro-section {
@@ -378,6 +378,17 @@ footer {
         font-size: 17px;
         text-shadow: 1px 1px 0px rgba(37, 36, 36, 0.9)
     }
+
+    .text-left {
+        margin-left: -30px;
+    }
+
+    .education-text {
+        font-size: 12px; /* ขนาดของข้อความใต้ Education */
+        margin-top: 5px; /* ระยะห่างด้านบน */
+        line-height: 1.0; 
+    }
+
     
 
 }
