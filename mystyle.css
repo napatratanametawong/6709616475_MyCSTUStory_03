@@ -466,7 +466,7 @@ footer {
     }
 
     .my-image {
-        width: 200px;
+        width: 210px;
         height: auto;
         border-radius: 20px;
         margin-right: -200px;
@@ -482,6 +482,10 @@ footer {
         text-shadow: 6px 6px 0px #283b2a;
         margin-left: -100px;
         margin-top: 40px;
+    }
+
+    .sub-text-container {
+        margin-left: -100px;
     }
 
     .sub-text-item {
