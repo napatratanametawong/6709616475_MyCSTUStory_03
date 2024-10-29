@@ -396,6 +396,10 @@ footer {
         margin-left: -15px;
     }
 
+    .hobbies-section, .contact-section {
+        padding-left: 33px; /* ลด padding เพื่อให้เริ่มย่อหน้าตรงกัน */
+    }
+
     
 
 }
