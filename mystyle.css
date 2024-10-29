@@ -465,6 +465,20 @@ footer {
         text-shadow: 2px 2px 1px #c1bdb8;
     }
 
+    .my-image {
+        width: 200px;
+        height: auto;
+        border-radius: 20px;
+        margin-right: -200px;
+        margin-left: 45px;
+    }
+
+    .main-text {
+        font-size: 80px; 
+        text-shadow: 6px 6px 0px #283b2a;
+        margin-left: -100px;
+    }
+
 }
 
 
