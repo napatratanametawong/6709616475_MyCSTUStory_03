@@ -512,14 +512,18 @@ footer {
         margin-left: -5px;
     }
 
+    .hobbies-section, .contact-section {
+        padding-left: 33px; 
+    }
+
     .image-frame {
-        width: 90px; 
-        height: 90px;
+        width: 70px; 
+        height: 70px;
     }
 
     .hobbies-images {
         gap: 16px; 
-        margin-left: -50px;
+        margin-left: 5px;
     }
 
 
