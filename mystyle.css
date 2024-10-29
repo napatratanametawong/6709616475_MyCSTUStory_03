@@ -348,6 +348,17 @@ footer {
         margin-left: -100px;
     }
 
+    .sub-text-container {
+        margin-top: 5px;
+        margin-left: -100px;
+    }
+
+    .sub-text-item {
+        font-size: 10px;
+        margin-bottom: 10px; /* ระยะห่างระหว่างบรรทัด */
+    }
+
+
 }
 
 
