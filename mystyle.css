@@ -285,6 +285,13 @@ footer {
     padding: 20px; 
 }
 
+@media screen and (min-width: 360px) and (max-width: 600px) {
+    html {
+        overflow-x: hidden;
+    }
+
+}
+
 
 
 
