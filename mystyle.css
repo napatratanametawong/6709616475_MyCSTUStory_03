@@ -420,13 +420,13 @@ footer {
     }
 
     .image-label {
-        font-size: 10px; /* ปรับขนาดตัวอักษรตามต้องการ */
-        margin-top: 6px; /* ระยะห่างจากกรอบรูปภาพ */
+        font-size: 10px;
+        margin-top: 6px; 
     }
 
     .contact-text {
-        margin-top: 10px; /* เพิ่มระยะห่างตามต้องการ */
-        margin-left: -50px;
+        margin-top: 10px; 
+        margin-left: -54px;
     }
 
     
