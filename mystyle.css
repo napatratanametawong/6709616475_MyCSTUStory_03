@@ -321,6 +321,15 @@ footer {
         text-shadow: 2px 2px 1px #c1bdb8;
     }
 
+    .underline-text {
+        font-size: 10px;
+    }
+
+    .text-part {
+        display: inline-block;
+        margin: 0 5px; 
+    }
+
 }
 
 
