@@ -502,6 +502,12 @@ footer {
         text-shadow: 3px 3px 0px rgba(37, 36, 36, 0.9)
     }
 
+    .education-text {
+        font-size: 25px;
+        margin-top: 15px; 
+        line-height: 1.3; 
+    }
+
 }
 
 
