@@ -330,6 +330,18 @@ footer {
         margin: 0 5px; 
     }
 
+    .content-container {
+        margin-top: 5px; 
+    }
+
+    .my-image {
+        width: 100px;
+        height: auto;
+        border-radius: 20px;
+        margin-right: -200px;
+        margin-left: 20px;
+    }
+
 }
 
 
